@@ -1,0 +1,11 @@
+.addition-wrapper {
+  background-color: rgb(244, 244, 244);
+  background-image: url(cheetah.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  padding: 0;
+  margin: 0;
+}
